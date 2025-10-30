@@ -1,7 +1,7 @@
 ![banner.png](https://github.com/gshperera/gshperera/blob/main/banner.png)
 
 # Hi there 👋, I'm Shanika Perera
-**`Undergraduate at SLIIT (data science)`**
+**`BSc.(Hons) in Information Technology Specialized in Data Science`**
 
 I find boundless joy in diving deep into the realms of machine learning and data science, relishing every challenge as an opportunity to unlock innovative solutions through problem-solving
 </br>
@@ -24,8 +24,6 @@ I find boundless joy in diving deep into the realms of machine learning and data
 </br>
 
 ## 📊 My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gshperera&theme=tokyonight) 
-
 ![Shanika GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gshperera&theme=tokyonight)
 
 </br>
