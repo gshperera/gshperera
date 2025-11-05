@@ -1,7 +1,7 @@
-![banner.png](https://github.com/gshperera/gshperera/blob/main/banner.png)
+<!--![banner.png](https://github.com/gshperera/gshperera/blob/main/banner.png)-->
 
 # Hi there 👋, I'm Shanika Perera
-**`BSc.(Hons) in Information Technology Specialized in Data Science`**
+### **`BSc.(Hons) in Information Technology Specialized in Data Science`**
 
 I find boundless joy in diving deep into the realms of machine learning and data science, relishing every challenge as an opportunity to unlock innovative solutions through problem-solving
 </br>
